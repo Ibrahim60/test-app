@@ -13,7 +13,7 @@ const nextConfig = {
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
 
-  assetPrefix: "https://github.com/Ibrahim60/test-app/"
+  // assetPrefix: "https://github.com/Ibrahim60/test-app/"
 }
 
 module.exports = nextConfig
